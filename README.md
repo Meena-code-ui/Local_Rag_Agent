@@ -172,24 +172,6 @@ LLM_MODEL = "phi3:mini"  # Default, optimized for 8GB RAM
 
 ---
 
-## Contributing
-
-Contributions are welcome. Here is how to help:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-Ideas for contributions:
-- Add support for DOCX, PPTX, or plain text files
-- Implement RAGAS evaluation metrics dashboard
-- Add export feature (save answers to CSV/Markdown)
-- Multi-language support for non-English documents
-
----
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
